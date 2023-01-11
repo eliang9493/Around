@@ -1,0 +1,26 @@
+Features:
+1. page router - Front End
+2. Persistent login?
+3. user can login
+4. user can logout
+5. user can register
+6. user can search by all/keyword/username
+7. user can see images/videos (posts)
+8. user can create new post
+9. user can delete posts
+
+UI
+1. header
+2. main；login register home
+
+Router
+url: page
+/login => login
+/register => register
+/home => home
+
+React Router
+1. key: value
+    path(url) <-> page(component)
+2. dependencies
+    react-router-dom
